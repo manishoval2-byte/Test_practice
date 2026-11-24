@@ -1,0 +1,4 @@
+git pull origin master
+git branch (name of branch)- add branch ( new branch name)
+git checkout -b (new branch name) - add & open new branch
+git switch - switch other branch 
